@@ -15,6 +15,7 @@ public class TestCase1 {
 		 driver =new ChromeDriver();
 	        String baseurl = "http://www.google.com/";
 	        driver.get(baseurl);
+	        System.out.println();
 	    }
 	}
 	
